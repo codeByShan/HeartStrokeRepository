@@ -4,8 +4,8 @@ A machine learning web application that predicts the risk of heart disease based
 
 ## 🚀 Live Demo
 
-Click here to view the app (replace with your Streamlit URL after deployment)
-
+Click here to view the app : 
+https://heart-stroke-predictions.streamlit.app/
 
 ## 📌 About the Project
 
@@ -54,21 +54,26 @@ bash   git clone https://github.com/YOUR_USERNAME/heart-stroke-prediction.git
 
 cd heart-stroke-prediction
 
+cd heart-stroke-prediction
+
 Install dependencies
 
-bash   pip install -r requirements.txt
+bash pip install -r requirements.txt
 
 Run the app
 
-bash   streamlit run app.py
+bash streamlit run app.py
 
 ## 📁 Project Structure
 
 heart-stroke-prediction/
-│
+
 ├── app.py                  # Main Streamlit application
+
 ├── model.pkl               # Trained ML model
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Project documentation
 
 ## 👨‍💻 Author
