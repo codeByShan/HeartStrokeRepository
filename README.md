@@ -77,7 +77,9 @@ heart-stroke-prediction/
 └── README.md               # Project documentation
 
 ## 👨‍💻 Author
-## Zeeshan Ali — @codeByShan
+
+Zeeshan Ali — @codeByShan
 
 ## 📄 License
+
 This project is open source and available under the MIT License.
