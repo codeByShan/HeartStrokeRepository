@@ -50,7 +50,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 
 Clone the repository
 
-bash   git clone https://github.com/YOUR_USERNAME/heart-stroke-prediction.git
+bash   git clone https://github.com/codeByShan/heart-stroke-prediction.git
 
 cd heart-stroke-prediction
 
