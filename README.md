@@ -48,8 +48,11 @@ heart-stroke-prediction/
 │
 
 ├── app.py                  # Main Streamlit application
+
 ├── model.pkl               # Trained ML model
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Project documentation
 
 👨‍💻 Author
