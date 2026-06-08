@@ -11,13 +11,13 @@ https://heart-stroke-predictions.streamlit.app/
 
 Heart disease is one of the leading causes of death worldwide. Early detection can save lives. This project uses a trained machine learning classifier to predict whether a patient is at risk of heart disease based on their clinical data — all through a simple, interactive web interface.
 
+
 ## 🧠 Features
 
-Interactive web interface built with Streamlit
-Trained on a real-world heart disease dataset
-Instant prediction with a single click
-Clean and user-friendly UI
-
+- Interactive web interface built with **Streamlit**
+- Trained on a real-world heart disease dataset
+- Instant prediction with a single click
+- Clean and user-friendly UI
 
 
 ## 📊 Input Features
