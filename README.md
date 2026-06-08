@@ -40,10 +40,10 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 
 ## 🛠️ Tech Stack
 
-Python
-Scikit-learn — ML model training
-Pandas & NumPy — Data processing
-Streamlit — Web application framework
+- Python -> Programming Language
+- Scikit-learn —> ML model training
+- Pandas & NumPy —>  Data processing
+- Streamlit —> Web application framework
 
 
 ## ⚙️ How to Run Locally
