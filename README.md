@@ -46,6 +46,7 @@ bash   streamlit run app.py
 📁 Project Structure
 heart-stroke-prediction/
 │
+
 ├── app.py                  # Main Streamlit application
 ├── model.pkl               # Trained ML model
 ├── requirements.txt        # Python dependencies
